@@ -13,14 +13,8 @@ namespace lab2
         {
             Radius = radius;
         }
-        public override string ToString()
-        {
-            return $"Круг радиусом {Radius}\nПлощадью {GetArea()}";
-        }
-        public override double GetArea()
-        {
-            return Math.PI * Radius * Radius;
-        }
+        public override string ToString() => $"Круг радиусом {Radius}\nПлощадью {GetArea()}";
 
+        public override double GetArea() => Math.PI * Radius * Radius;
     }
 }

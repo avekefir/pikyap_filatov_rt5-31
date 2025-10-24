@@ -13,9 +13,7 @@ namespace lab2
         {
             Console.WriteLine(ToString());
         }
-        public virtual double GetArea()
-        {
-            return 0.0;
-        }
+        public virtual double GetArea() => 0.0;
+        
     }
 }
