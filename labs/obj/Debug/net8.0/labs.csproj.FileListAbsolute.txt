@@ -1,0 +1,14 @@
+C:\Users\2695\source\repos\labs\labs\bin\Debug\net8.0\labs.exe
+C:\Users\2695\source\repos\labs\labs\bin\Debug\net8.0\labs.deps.json
+C:\Users\2695\source\repos\labs\labs\bin\Debug\net8.0\labs.runtimeconfig.json
+C:\Users\2695\source\repos\labs\labs\bin\Debug\net8.0\labs.dll
+C:\Users\2695\source\repos\labs\labs\bin\Debug\net8.0\labs.pdb
+C:\Users\2695\source\repos\labs\labs\obj\Debug\net8.0\labs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2695\source\repos\labs\labs\obj\Debug\net8.0\labs.AssemblyInfoInputs.cache
+C:\Users\2695\source\repos\labs\labs\obj\Debug\net8.0\labs.AssemblyInfo.cs
+C:\Users\2695\source\repos\labs\labs\obj\Debug\net8.0\labs.csproj.CoreCompileInputs.cache
+C:\Users\2695\source\repos\labs\labs\obj\Debug\net8.0\labs.dll
+C:\Users\2695\source\repos\labs\labs\obj\Debug\net8.0\refint\labs.dll
+C:\Users\2695\source\repos\labs\labs\obj\Debug\net8.0\labs.pdb
+C:\Users\2695\source\repos\labs\labs\obj\Debug\net8.0\labs.genruntimeconfig.cache
+C:\Users\2695\source\repos\labs\labs\obj\Debug\net8.0\ref\labs.dll

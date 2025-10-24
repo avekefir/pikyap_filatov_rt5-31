@@ -1,0 +1,17 @@
+C:\Users\2695\source\repos\labs\lab3\obj\Debug\net8.0\lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2695\source\repos\labs\lab3\obj\Debug\net8.0\lab3.AssemblyInfoInputs.cache
+C:\Users\2695\source\repos\labs\lab3\obj\Debug\net8.0\lab3.AssemblyInfo.cs
+C:\Users\2695\source\repos\labs\lab3\obj\Debug\net8.0\lab3.csproj.CoreCompileInputs.cache
+C:\Users\2695\source\repos\labs\lab3\bin\Debug\net8.0\lab3.exe
+C:\Users\2695\source\repos\labs\lab3\bin\Debug\net8.0\lab3.deps.json
+C:\Users\2695\source\repos\labs\lab3\bin\Debug\net8.0\lab3.runtimeconfig.json
+C:\Users\2695\source\repos\labs\lab3\bin\Debug\net8.0\lab3.dll
+C:\Users\2695\source\repos\labs\lab3\bin\Debug\net8.0\lab3.pdb
+C:\Users\2695\source\repos\labs\lab3\obj\Debug\net8.0\lab3.dll
+C:\Users\2695\source\repos\labs\lab3\obj\Debug\net8.0\refint\lab3.dll
+C:\Users\2695\source\repos\labs\lab3\obj\Debug\net8.0\lab3.pdb
+C:\Users\2695\source\repos\labs\lab3\obj\Debug\net8.0\lab3.genruntimeconfig.cache
+C:\Users\2695\source\repos\labs\lab3\obj\Debug\net8.0\ref\lab3.dll
+C:\Users\2695\source\repos\labs\lab3\bin\Debug\net8.0\MathNet.Numerics.dll
+C:\Users\2695\source\repos\labs\lab3\obj\Debug\net8.0\lab3.csproj.AssemblyReference.cache
+C:\Users\2695\source\repos\labs\lab3\obj\Debug\net8.0\lab3.csproj.Up2Date

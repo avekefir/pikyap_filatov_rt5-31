@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2695\\source\\repos\\labs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B157768-12BE-4B08-8AAD-F4DC5DBE6E9B}|labs\\labs.csproj|c:\\users\\2695\\source\\repos\\labs\\labs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B157768-12BE-4B08-8AAD-F4DC5DBE6E9B}|labs\\labs.csproj|solutionrelative:labs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B157768-12BE-4B08-8AAD-F4DC5DBE6E9B}|labs\\labs.csproj|c:\\users\\2695\\source\\repos\\labs\\labs\\lab1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B157768-12BE-4B08-8AAD-F4DC5DBE6E9B}|labs\\labs.csproj|solutionrelative:labs\\lab1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A235931F-135A-4B93-B96C-6C2C30A0E279}|lab3\\lab3.csproj|c:\\users\\2695\\source\\repos\\labs\\lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A235931F-135A-4B93-B96C-6C2C30A0E279}|lab3\\lab3.csproj|solutionrelative:lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A235931F-135A-4B93-B96C-6C2C30A0E279}|lab3\\lab3.csproj|c:\\users\\2695\\source\\repos\\labs\\lab3\\geometricshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A235931F-135A-4B93-B96C-6C2C30A0E279}|lab3\\lab3.csproj|solutionrelative:lab3\\geometricshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A235931F-135A-4B93-B96C-6C2C30A0E279}|lab3\\lab3.csproj|c:\\users\\2695\\source\\repos\\labs\\lab3\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A235931F-135A-4B93-B96C-6C2C30A0E279}|lab3\\lab3.csproj|solutionrelative:lab3\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A235931F-135A-4B93-B96C-6C2C30A0E279}|lab3\\lab3.csproj|c:\\users\\2695\\source\\repos\\labs\\lab3\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A235931F-135A-4B93-B96C-6C2C30A0E279}|lab3\\lab3.csproj|solutionrelative:lab3\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A235931F-135A-4B93-B96C-6C2C30A0E279}|lab3\\lab3.csproj|c:\\users\\2695\\source\\repos\\labs\\lab3\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A235931F-135A-4B93-B96C-6C2C30A0E279}|lab3\\lab3.csproj|solutionrelative:lab3\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 296,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\2695\\source\\repos\\labs\\labs\\Program.cs",
+              "RelativeDocumentMoniker": "labs\\Program.cs",
+              "ToolTip": "C:\\Users\\2695\\source\\repos\\labs\\labs\\Program.cs",
+              "RelativeToolTip": "labs\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T17:55:37.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lab1.cs",
+              "DocumentMoniker": "C:\\Users\\2695\\source\\repos\\labs\\labs\\lab1.cs",
+              "RelativeDocumentMoniker": "labs\\lab1.cs",
+              "ToolTip": "C:\\Users\\2695\\source\\repos\\labs\\labs\\lab1.cs",
+              "RelativeToolTip": "labs\\lab1.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAACIvU4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T17:36:20.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\2695\\source\\repos\\labs\\lab3\\Circle.cs",
+              "RelativeDocumentMoniker": "lab3\\Circle.cs",
+              "ToolTip": "C:\\Users\\2695\\source\\repos\\labs\\lab3\\Circle.cs",
+              "RelativeToolTip": "lab3\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T19:28:22.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GeometricShape.cs",
+              "DocumentMoniker": "C:\\Users\\2695\\source\\repos\\labs\\lab3\\GeometricShape.cs",
+              "RelativeDocumentMoniker": "lab3\\GeometricShape.cs",
+              "ToolTip": "C:\\Users\\2695\\source\\repos\\labs\\lab3\\GeometricShape.cs",
+              "RelativeToolTip": "lab3\\GeometricShape.cs",
+              "ViewState": "AgIAABIAAACAmZmZmZktwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T19:28:15.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Square.cs",
+              "DocumentMoniker": "C:\\Users\\2695\\source\\repos\\labs\\lab3\\Square.cs",
+              "RelativeDocumentMoniker": "lab3\\Square.cs",
+              "ToolTip": "C:\\Users\\2695\\source\\repos\\labs\\lab3\\Square.cs",
+              "RelativeToolTip": "lab3\\Square.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T19:27:41.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\2695\\source\\repos\\labs\\lab3\\Rectangle.cs",
+              "RelativeDocumentMoniker": "lab3\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\2695\\source\\repos\\labs\\lab3\\Rectangle.cs",
+              "RelativeToolTip": "lab3\\Rectangle.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T19:27:37.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\2695\\source\\repos\\labs\\lab3\\Program.cs",
+              "RelativeDocumentMoniker": "lab3\\Program.cs",
+              "ToolTip": "C:\\Users\\2695\\source\\repos\\labs\\lab3\\Program.cs",
+              "RelativeToolTip": "lab3\\Program.cs",
+              "ViewState": "AgIAAAkAAAAALzMzMzPzvwAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T19:26:18.158Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
