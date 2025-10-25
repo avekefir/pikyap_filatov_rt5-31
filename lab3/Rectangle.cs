@@ -16,11 +16,8 @@ namespace lab3
             Length = length;
             Width = width;
         }
-        public override string ToString()
-        {
-            return $"Прямоугольник со сторонами {Length} и {Width}\nПлощадью {GetArea()}";
-        }
-        public override double GetArea() => Length * Width;
-        
+        public override string ToString() => $"Прямоугольник со сторонами {Length} и {Width}\nПлощадью {GetArea()}";
+
+        public override double GetArea() => Length * Width;        
     }
 }

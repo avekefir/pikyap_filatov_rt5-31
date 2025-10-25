@@ -13,13 +13,8 @@ namespace lab3
         {
             Length = length;
         }
-        public override string ToString()
-        {
-            return $"Квадрат со стороной {Length}\nПлощадью {GetArea()}";
-        }
-        public override double GetArea()
-        {
-            return Length * Length;
-        }
+        public override string ToString() => $"Квадрат со стороной {Length}\nПлощадью {GetArea()}";
+        
+        public override double GetArea() => Length * Length;
     }
 }

@@ -35,7 +35,7 @@ namespace labs
                 PrintResult(result);
             }
         }
-        public static bool DoubleTryParseUniversal(string? input, out double result)//null 0,5 0.5
+        public static bool DoubleTryParseUniversal(string? input, out double result) // 0,5 0.5
         {
             if (double.TryParse(input, NumberStyles.Any, CultureInfo.CurrentCulture, out result)) // comma
                 return true;
