@@ -3,8 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\2695\\source\\repos\\labs\\rk1\\rk1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4F0ABB24-AED0-4E27-9EDF-51E2AAF95D85}|RK1Test\\RK1Test.csproj|c:\\users\\2695\\source\\repos\\labs\\rk1\\rk1\\rk1test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F0ABB24-AED0-4E27-9EDF-51E2AAF95D85}|RK1Test\\RK1Test.csproj|solutionrelative:rk1test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{16F6DBF3-A17D-46EF-BD6F-1D1CE49F0F3C}|rk1\\rk1.csproj|c:\\users\\2695\\source\\repos\\labs\\rk1\\rk1\\rk1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16F6DBF3-A17D-46EF-BD6F-1D1CE49F0F3C}|rk1\\rk1.csproj|solutionrelative:rk1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F6DBF3-A17D-46EF-BD6F-1D1CE49F0F3C}|rk1\\rk1.csproj|c:\\users\\2695\\source\\repos\\labs\\rk1\\rk1\\rk1\\reportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F6DBF3-A17D-46EF-BD6F-1D1CE49F0F3C}|rk1\\rk1.csproj|solutionrelative:rk1\\reportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F6DBF3-A17D-46EF-BD6F-1D1CE49F0F3C}|rk1\\rk1.csproj|c:\\users\\2695\\source\\repos\\labs\\rk1\\rk1\\rk1\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F6DBF3-A17D-46EF-BD6F-1D1CE49F0F3C}|rk1\\rk1.csproj|solutionrelative:rk1\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F6DBF3-A17D-46EF-BD6F-1D1CE49F0F3C}|rk1\\rk1.csproj|c:\\users\\2695\\source\\repos\\labs\\rk1\\rk1\\rk1\\datainitalizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F6DBF3-A17D-46EF-BD6F-1D1CE49F0F3C}|rk1\\rk1.csproj|solutionrelative:rk1\\datainitalizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F6DBF3-A17D-46EF-BD6F-1D1CE49F0F3C}|rk1\\rk1.csproj|c:\\users\\2695\\source\\repos\\labs\\rk1\\rk1\\rk1\\detailsupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F6DBF3-A17D-46EF-BD6F-1D1CE49F0F3C}|rk1\\rk1.csproj|solutionrelative:rk1\\detailsupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F6DBF3-A17D-46EF-BD6F-1D1CE49F0F3C}|rk1\\rk1.csproj|c:\\users\\2695\\source\\repos\\labs\\rk1\\rk1\\rk1\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F6DBF3-A17D-46EF-BD6F-1D1CE49F0F3C}|rk1\\rk1.csproj|solutionrelative:rk1\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F6DBF3-A17D-46EF-BD6F-1D1CE49F0F3C}|rk1\\rk1.csproj|c:\\users\\2695\\source\\repos\\labs\\rk1\\rk1\\rk1\\detail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F6DBF3-A17D-46EF-BD6F-1D1CE49F0F3C}|rk1\\rk1.csproj|solutionrelative:rk1\\detail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +42,110 @@
       "DocumentGroups": [
         {
           "DockedHeight": 296,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "DataInitalizer.cs",
+              "DocumentMoniker": "C:\\Users\\2695\\source\\repos\\labs\\rk1\\rk1\\rk1\\DataInitalizer.cs",
+              "RelativeDocumentMoniker": "rk1\\DataInitalizer.cs",
+              "ToolTip": "C:\\Users\\2695\\source\\repos\\labs\\rk1\\rk1\\rk1\\DataInitalizer.cs",
+              "RelativeToolTip": "rk1\\DataInitalizer.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T20:04:01.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataService.cs",
+              "DocumentMoniker": "C:\\Users\\2695\\source\\repos\\labs\\rk1\\rk1\\rk1\\DataService.cs",
+              "RelativeDocumentMoniker": "rk1\\DataService.cs",
+              "ToolTip": "C:\\Users\\2695\\source\\repos\\labs\\rk1\\rk1\\rk1\\DataService.cs",
+              "RelativeToolTip": "rk1\\DataService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T20:04:12.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReportGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\2695\\source\\repos\\labs\\rk1\\rk1\\rk1\\ReportGenerator.cs",
+              "RelativeDocumentMoniker": "rk1\\ReportGenerator.cs",
+              "ToolTip": "C:\\Users\\2695\\source\\repos\\labs\\rk1\\rk1\\rk1\\ReportGenerator.cs",
+              "RelativeToolTip": "rk1\\ReportGenerator.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T20:05:00.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\2695\\source\\repos\\labs\\rk1\\rk1\\rk1\\Program.cs",
               "RelativeDocumentMoniker": "rk1\\Program.cs",
               "ToolTip": "C:\\Users\\2695\\source\\repos\\labs\\rk1\\rk1\\rk1\\Program.cs",
               "RelativeToolTip": "rk1\\Program.cs",
-              "ViewState": "AgIAAHwAAAAAAAAAAAAowJEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-02T13:08:24.426Z",
+              "WhenOpened": "2025-12-18T20:06:40.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\2695\\source\\repos\\labs\\rk1\\rk1\\RK1Test\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "RK1Test\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\2695\\source\\repos\\labs\\rk1\\rk1\\RK1Test\\UnitTest1.cs",
+              "RelativeToolTip": "RK1Test\\UnitTest1.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T19:30:08.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DetailSupplier.cs",
+              "DocumentMoniker": "C:\\Users\\2695\\source\\repos\\labs\\rk1\\rk1\\rk1\\DetailSupplier.cs",
+              "RelativeDocumentMoniker": "rk1\\DetailSupplier.cs",
+              "ToolTip": "C:\\Users\\2695\\source\\repos\\labs\\rk1\\rk1\\rk1\\DetailSupplier.cs",
+              "RelativeToolTip": "rk1\\DetailSupplier.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T20:08:52.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "C:\\Users\\2695\\source\\repos\\labs\\rk1\\rk1\\rk1\\Supplier.cs",
+              "RelativeDocumentMoniker": "rk1\\Supplier.cs",
+              "ToolTip": "C:\\Users\\2695\\source\\repos\\labs\\rk1\\rk1\\rk1\\Supplier.cs",
+              "RelativeToolTip": "rk1\\Supplier.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T20:08:31.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Detail.cs",
+              "DocumentMoniker": "C:\\Users\\2695\\source\\repos\\labs\\rk1\\rk1\\rk1\\Detail.cs",
+              "RelativeDocumentMoniker": "rk1\\Detail.cs",
+              "ToolTip": "C:\\Users\\2695\\source\\repos\\labs\\rk1\\rk1\\rk1\\Detail.cs",
+              "RelativeToolTip": "rk1\\Detail.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T20:08:11.498Z",
               "EditorCaption": ""
             }
           ]
