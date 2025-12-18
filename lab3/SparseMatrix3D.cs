@@ -25,14 +25,6 @@ namespace lab3
                     matrix[key] = value;
             }
         }
-        public override string ToString()
-        {
-            var result = new StringBuilder();
-            result.AppendLine("Трехмерная разреженная матрица:");
-
-            var sortedKeys = matrix.Keys.OrderBy(k => k.Item1)
-                .ThenBy(k => k.Item2)
-                .ThenBy(k => k.Item3);
-        }
+        
     }
 }

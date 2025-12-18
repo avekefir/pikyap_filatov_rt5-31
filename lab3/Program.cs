@@ -19,8 +19,6 @@ namespace lab3
             list.Sort();
             foreach (var e in list)
                 Console.WriteLine(e.ToString());
-            
-
         }
     }
 }
